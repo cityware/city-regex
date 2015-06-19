@@ -10,9 +10,6 @@
     "autoload": {
         "psr-4": {
             "Cityware\\Regex\\": "src/"
-        },
-        "psr-0": {
-            "Cityware\\Regex\\": "src/"
         }
     },
     "require": {
